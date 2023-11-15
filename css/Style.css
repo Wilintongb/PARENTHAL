@@ -179,6 +179,8 @@ section .nosotros{
 }
 .nosotros p{
     text-align: center;
+    text-align: justify;
+
 }
 section .productos{
     text-align: center;
